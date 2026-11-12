@@ -1,0 +1,5 @@
+com\giordana\factorypulse\repository\ProducaoRepository.class
+com\giordana\factorypulse\FactorypulseApplication.class
+com\giordana\factorypulse\model\Producao.class
+com\giordana\factorypulse\HealthController.class
+com\giordana\factorypulse\controller\ProducaoController.class
